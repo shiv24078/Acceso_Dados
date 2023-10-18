@@ -1,0 +1,44 @@
+[
+  {
+    "p-titulo": "El atlas de las nubes",
+    "p-año": 2012,
+    "p-direccion": "Lana Wachowski, Tom Tykwer, Andy Wachowski",
+    "p-duracion-minutos": 172,
+    "interpretes": [
+      {
+        "nombre": "Tom Hanks",
+        "fechaNacimiento": "09/09/1956",
+        "name": null,
+        "gender": "M"
+      },
+      {
+        "nombre": "Halle Berry",
+        "fechaNacimiento": "14/08/1966",
+        "name": null,
+        "gender": "F"
+      }
+    ],
+    "created_at": "2012-11-26T00:00:00.000+0100"
+  },
+  {
+    "p-titulo": "La red social",
+    "p-año": 2010,
+    "p-direccion": "David Fincher",
+    "p-duracion-minutos": 120,
+    "interpretes": [
+      {
+        "nombre": "Jesse Eisenberg",
+        "fechaNacimiento": "05/10/1983",
+        "name": null,
+        "gender": "M"
+      },
+      {
+        "nombre": "Andrew Garfield",
+        "fechaNacimiento": "20/08/1983",
+        "name": null,
+        "gender": "M"
+      }
+    ],
+    "created_at": "2010-11-26T00:00:00.000+0100"
+  }
+]
